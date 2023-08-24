@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Yifan Wu</h1>
 <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRqZW93b2o3OTZsdXlxdWJleWFmdTB5NzU2YXdsNmVtY2NxbzdsNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/200w.gif">
-<h3>Quick learner and team player with a problem-solving mindset & adaptive ability.</h3>
+<h3>Quick learner with a problem-solving mindset & adaptive ability.</h3>
 
 
 - 🌎 Based in **Dublin, Ireland**
